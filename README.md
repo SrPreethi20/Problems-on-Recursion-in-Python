@@ -25,11 +25,6 @@ Output #
 true if the parentheses in the input array are balanced. false if the parentheses in the input array are imbalanced.
 
 
-
-
-
-
-
 Problem Statement 2#
 Write a function that takes a number testVariable and returns a string that is its equivalent binary number.
 
@@ -43,6 +38,8 @@ Sample Input #
 11
 Sample Output #
 "1011"
+
+
 Problem Statement 3#
 Implement a function that takes two numbers, testVariable1 and testVariable2 and returns their greatest common divisor.
 
